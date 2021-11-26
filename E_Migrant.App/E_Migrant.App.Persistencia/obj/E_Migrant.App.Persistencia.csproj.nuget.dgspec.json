@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj": {}
+    "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj": {}
   },
   "projects": {
-    "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj": {
+    "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj",
-        "projectName": "E-Migrant.App.Persistencia",
-        "projectPath": "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj",
+        "projectName": "E_Migrant.App.Persistencia",
+        "projectPath": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\obj\\",
+        "outputPath": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

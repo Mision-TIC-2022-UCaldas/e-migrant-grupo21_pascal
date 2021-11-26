@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>E_Migrant.App.Persistencia</RootNamespace>
   </PropertyGroup>
 
 </Project>

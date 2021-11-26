@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MzSFoCEnZ1znR94Cng9Wrgengz3JDRubkxRI0VxuM7ZkNiRTpjlF+7FiI/5xjjubZquaxgyhPkRsB2npFP6jBw==",
+  "dgSpecHash": "vvjgyNyJMkvavAvfELqNeHe6u697HBrDPX2YsOrlVicvJ5tPdwP8dUysRY/iSj89zJJ2vn0FkxVWlZujJCE/qQ==",
   "success": true,
-  "projectFilePath": "D:\\e-migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj",
+  "projectFilePath": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

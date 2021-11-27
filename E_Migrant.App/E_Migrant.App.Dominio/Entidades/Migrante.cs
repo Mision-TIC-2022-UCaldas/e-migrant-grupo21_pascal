@@ -15,5 +15,6 @@ namespace E_Migrant.App.Dominio
         public string DirActual{get; set;}
         public string Ciudad{get; set;}
         public string SitLaboral{get; set;}        
+        public string contraseña{get; set;}
     }
 }

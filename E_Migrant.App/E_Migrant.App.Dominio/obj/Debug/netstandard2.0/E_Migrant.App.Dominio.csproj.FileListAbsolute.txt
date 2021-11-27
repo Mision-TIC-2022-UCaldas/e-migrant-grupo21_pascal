@@ -1,0 +1,9 @@
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.csprojAssemblyReference.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.AssemblyInfoInputs.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.AssemblyInfo.cs
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.csproj.CoreCompileInputs.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\netstandard2.0\E_Migrant.App.Dominio.deps.json
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\netstandard2.0\E_Migrant.App.Dominio.dll
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\netstandard2.0\E_Migrant.App.Dominio.pdb
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.dll
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\netstandard2.0\E_Migrant.App.Dominio.pdb

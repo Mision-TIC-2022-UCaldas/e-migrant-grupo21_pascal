@@ -1,0 +1,12 @@
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.csprojAssemblyReference.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.AssemblyInfoInputs.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.AssemblyInfo.cs
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\bin\Debug\netstandard2.1\E_Migrant.App.Persistencia.deps.json
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\bin\Debug\netstandard2.1\E_Migrant.App.Persistencia.dll
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\bin\Debug\netstandard2.1\E_Migrant.App.Persistencia.pdb
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\bin\Debug\netstandard2.1\E_Migrant.App.Dominio.dll
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\bin\Debug\netstandard2.1\E_Migrant.App.Dominio.pdb
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.csproj.CopyComplete
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.dll
+D:\e-migrant-grupo21_pascal\E_Migrant.App\E_Migrant.App.Persistencia\obj\Debug\netstandard2.1\E_Migrant.App.Persistencia.pdb

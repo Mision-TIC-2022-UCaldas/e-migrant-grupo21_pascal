@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\E_Migrant.App.Persistencia\E_Migrant.App.Persistencia.csproj" />
+    <ProjectReference Include="..\E_Migrant.App.Dominio\E_Migrant.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

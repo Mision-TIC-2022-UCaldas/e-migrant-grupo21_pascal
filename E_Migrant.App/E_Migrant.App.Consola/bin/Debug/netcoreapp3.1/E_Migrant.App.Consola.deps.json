@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "E_Migrant.App.Consola/1.0.0": {
         "dependencies": {
+          "E_Migrant.App.Dominio": "1.0.0",
           "E_Migrant.App.Persistencia": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0"
         },

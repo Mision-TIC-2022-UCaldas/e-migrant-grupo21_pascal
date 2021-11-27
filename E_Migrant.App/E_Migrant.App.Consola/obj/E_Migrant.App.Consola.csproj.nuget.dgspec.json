@@ -25,6 +25,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj": {
+                "projectPath": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Dominio\\E_Migrant.App.Dominio.csproj"
+              },
               "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj": {
                 "projectPath": "D:\\e-migrant-grupo21_pascal\\E_Migrant.App\\E_Migrant.App.Persistencia\\E_Migrant.App.Persistencia.csproj"
               }

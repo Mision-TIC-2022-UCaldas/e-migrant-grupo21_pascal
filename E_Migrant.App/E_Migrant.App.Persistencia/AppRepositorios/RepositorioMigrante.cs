@@ -1,7 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using E_Migrant.App.Dominio;
-namespace E_Migrant.App.Persistencia{
+namespace E_Migrant.App.Persistencia.AppRepositorios
+{
     public class RepositorioMigrante:IRepositorioMigrante{  
         // <summary>
         // Referencia al contexto de Paciente

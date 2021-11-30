@@ -1,6 +1,6 @@
 ﻿using System;
 using E_Migrant.App.Dominio;
-using E_Migrant.App.Persistencia;
+using E_Migrant.App.Persistencia.AppRepositorios;
 
 namespace E_Migrant.App.Consola
 {
